@@ -1,0 +1,201 @@
+.navbar{
+    height: 100px;
+    background-color: rgb(18, 18, 92);
+}
+
+.reverse{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.big{
+    height: 500px;
+}
+
+.more{
+    width: 350px;
+}
+
+.green{
+    background-color: rgb(30, 214, 168);
+}
+
+#boot{
+    font-size: 28px;
+}
+
+.box img{
+    width: 50%;
+}
+
+img{
+    width: 100%; 
+}
+
+.box{
+    text-align: center;
+    color: #fff;
+}
+
+h1{
+    padding: 20px;
+    font-size: 50px;
+}
+
+.inner-line{
+    width: 100px;
+    height: 6px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.line i{
+    color: #fff;
+    font-size: 50px;
+}
+
+.text{
+    color: #fff;
+}
+
+.text h2{
+    font-size: 23px;
+}
+
+.blackk{
+    background-color: #130F0F
+}
+
+.black{
+    background-color: #000;
+}
+
+#special{
+    color: #000;
+}
+
+.red{
+   background-color: #BA4C63 
+}
+
+.teal{
+    background-color:#1FA4B6
+}
+
+.blue{
+    background-color: #1D83C1;
+}
+
+.lightblue{
+    background-color: #1037B5
+}
+
+.tan{
+    background-color: #CCB2A3;
+}
+
+.about h1{
+    color: #fff;
+}
+
+p{
+    color: #fff;
+}
+
+.testo{
+    width: 600px;
+}
+
+.testo p{
+    font-size: 28px;
+}
+
+.ml{
+    margin-left: 130px;
+}
+
+.button{
+    margin-bottom: 50px;
+    padding: 10px 10px;
+}
+
+.button button{
+    background-color: rgb(30, 214, 168);
+    border: 1px solid #fff;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.center{
+    text-align: center;
+    font-size: 55px;
+}
+
+input{
+    border: none;
+   color: #000;
+   font-size: 18px;
+}
+
+#border{
+    border-bottom: 1px solid #ccc;
+}
+
+#area{
+    width: 1100px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+#send{
+    width: 100px;
+    height: 40px;
+    margin-left: 160px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+
+.skye{
+    width: 1800px;
+    background-color: gray
+}
+
+.radius{
+    width: 50px;
+    height: 50px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+h2{
+    color: #fff;
+}
+
+.radius i{
+    color: #fff;
+   font-size: 20px;
+}
+
+span{
+    color: green;
+}
+
+.copy{
+    background-color: rgb(27, 27, 82);
+    height: 100px;
+    width: 100%;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
